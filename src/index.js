@@ -1,1 +1,3 @@
-console.log("masuk");
+import "./style.css";
+import "./header";
+import "./home";
